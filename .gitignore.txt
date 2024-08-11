@@ -1,0 +1,5 @@
+credentials.json
+*.json
+client_secret_853326803148-032bias8r2cokiip1sitcviu96vqpb7i.apps.googleusercontent.com.json
+client_secret_853326803148-k68sjp2ivsl01v60f8l4nkakabfk31u4.apps.googleusercontent.com.json
+client_secret_853326803148-rd5a36lc1irc4il6khaghfmhhkfgg3l6.apps.googleusercontent.com.json
